@@ -1,0 +1,18 @@
+[
+    {
+        "produto": "Kung Fury",
+        "id": 1,
+        "imagem":"https://raw.githubusercontent.com/adlenl2/react_teste/master/images/kungfury.jpg"
+    },
+    {
+        "produto": "Triceracop",
+        "id": 2,
+        "imagem":"https://raw.githubusercontent.com/adlenl2/react_teste/master/images/triceracop.jpg"
+    },
+    {
+        "produto": "Hackerman",
+        "id": 3,
+        "imagem":"https://raw.githubusercontent.com/adlenl2/react_teste/master/images/hackerman.jpg"
+    }
+
+]
